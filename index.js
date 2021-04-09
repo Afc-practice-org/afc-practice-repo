@@ -1,10 +1,12 @@
-var welcome = "Hello, World!";
 
 console.log(welcome);
 
+var welcome = "Hello, World!";
 
-function greeting() {
-  console.log("Hello, World!")
-}
 
-greeting();
+
+
+
+let obj = {};
+
+
